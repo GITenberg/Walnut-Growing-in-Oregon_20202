@@ -1,0 +1,27 @@
+_repo: Walnut-Growing-in-Oregon_20202
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Cooper, Jacob Calvin
+    alias: Cooper, J. C. (Jacob Calvin)
+    birthdate: 1845
+    deathdate: 1937
+    gutenberg_agent_id: '9149'
+    url: http://www.gutenberg.org/2009/agents/9149
+description: ''
+gutenberg_issued: '2006-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Walnut'
+title: Walnut Growing in Oregon
+url: http://www.gutenberg.org/ebooks/20202
